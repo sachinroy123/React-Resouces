@@ -1,0 +1,51 @@
+****  NODE *****
+
+npm init -y
+npm i express
+npm i mongoose
+npm i dotenv
+npm i bcryptjs
+npm i jsonwebtoken
+
+
+
+
+start mongodb atlas 
+mongo atlas
+
+username : admin
+pass    : adminsachin
+
+
+nodemon src/app.js -e js,hbs,html
+
+
+**** REACT *****
+here client is a folder name...
+
+npx  create-react-app client  
+npm start 
+
+
+**** extension ****
+babel javascript for suggestion
+babel es6/es7 	
+es6 javascript code snippet
+vs code icons
+
+
+***** for jsx suggestions ****
+
+preference->setting->USER SETTINGS
+----settings.json-----
+  add this line at the end ---
+
+      "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      },
+      "emmet.triggerExpansionOnTab": true
+
+
+
+*** SHOUTCUTS ***
+rafce
